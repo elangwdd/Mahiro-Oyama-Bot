@@ -1,0 +1,2 @@
+TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+CACHE_TIME = 30 # waktu dalam detik
